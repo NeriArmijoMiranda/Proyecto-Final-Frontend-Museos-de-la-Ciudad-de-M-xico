@@ -1,3 +1,55 @@
+body{
+    background-color: black;
+}
+
+#logo{
+    align-items: center;
+    margin-left: 600px;
+    height: 200px;
+    width:300px;
+}
+
+
 #navbar {
     background-color: pink;
+}
+
+#imgba{
+    align-self: center;
+    width: 400px;
+    height: 220px;
+}
+
+#carouselExampleControls{
+    width: 800px;
+    height: 500px;
+    align-items: center;
+    border-left: 300px;;
+    margin-left: 300px;
+}
+
+#cajapintura{
+    align-items: center;
+}
+
+#pintura{
+    padding-top: 100px;
+    align-items: center;
+    margin-left: 200px;
+    height: 600px;
+    width: 800px;
+}
+
+#arquitectura{
+    align-items: center;
+    margin-left: 200px;
+    height: 600px;
+    width: 800px;
+}
+
+#fotografia{
+    align-items: center;
+    margin-left: 200px;
+    height: 400px;
+    width: 600px;
 }
